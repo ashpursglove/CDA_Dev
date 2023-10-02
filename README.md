@@ -12,9 +12,9 @@ openpyxl
 tkinter 
 
 
-just apt-get or pip these into your environment before you run the code and it should work fine.
+Just apt-get or pip these into your environment before you run the code and it should work fine.
 
-go in the excel and put the numbers you want for the calculations and save it.
+Go in the excel and put the numbers you want for the calculations and save it.
 
 Now run the python script (ash_calc) using python 3 so type in
 
