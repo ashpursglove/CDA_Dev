@@ -6,8 +6,11 @@ Here is the program and an example excel input file.
 This code has a few dependancies on libraries that will need to be installed as below:
 
 psychrolib
+
 openpyxl
+
 tkinter 
+
 
 just apt-get or pip these into your environment before you run the code and it should work fine.
 
