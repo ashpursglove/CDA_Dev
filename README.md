@@ -23,4 +23,6 @@ python3 ash_calc.py
 This should start the program, now in the text box enter the just name of the excel file with all your data in.
 In this example the file is co2.xlsx so just type co2 in the box and click "process file" this will calculate and display all the data.
 
+Just a note, I made this so it only looks next to the program for the file so you can name you excel file anything you want, just make sure its in the same file as the python script! 
+
 As always, any issues just ask!
